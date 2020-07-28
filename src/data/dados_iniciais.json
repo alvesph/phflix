@@ -1,50 +1,34 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Super Simple",
+      "link": "https://www.youtube.com/watch?v=ZYgUuTbQHR4",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "FormaçãO que é esse fenômeno infantil?",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O que faz o Santa Shark?",
+          "url": "https://www.youtube.com/watch?v=ZYgUuTbQHR4"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Red Light",
+          "url": "https://www.youtube.com/watch?v=a-npmDGK1Dc&t=1851s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "The Alphabet",
+          "url": "https://www.youtube.com/watch?v=n8PyUO2PL4A"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Fallow Me",
+          "url": "https://www.youtube.com/watch?v=6MjaAbjOksQ"
+        }
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Bita",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
